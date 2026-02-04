@@ -80,6 +80,7 @@ const TherapyApproachSection = () => {
                 </div>
               ))}
             </div>
+            </div>
           </ScrollReveal>
 
           {/* Benefits Grid */}
